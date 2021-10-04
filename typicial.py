@@ -3,12 +3,12 @@ import time
 from crypt import *
 from tkinter import *
 import random
-import datetime
 
 root = Tk()
 
 root.geometry("1280x720")
-root.title("Test")
+root.title("Typecial")
+root.iconbitmap('icon.ico')
 root.config(bg="#5678A9")
 register_page = LabelFrame(root)
 sign_in_page = LabelFrame(root)
