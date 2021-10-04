@@ -38,15 +38,19 @@ This project us different than other typing test/game in a way. This doesn't inc
 
 - Python
 <br>
+
 ![img_3.png](Images/img_3.png)
 - Tkinter
 <br>
+
 ![img_2.png](Images/img_2.png)
 - SQLite3
 <br>
+
 ![img_1.png](Images/img_1.png)
 - Figma
 <br>
+
 ![img.png](Images/img.png)
 
 <h3>Testing</h3>
